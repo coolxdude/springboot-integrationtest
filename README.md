@@ -10,7 +10,7 @@ In this project, We will show how Spring boot and spring data can be used to int
 ```mvn clean install```
 
 ## Step 3 If you want to start the application
-```java -jar java -jar target/springboottest-0.0.1-SNAPSHOT.jar```
+```mvn spring-boot:run```
 
 ## Go to test folder and check all the test classes to understand the Integration Test implementation.
 
