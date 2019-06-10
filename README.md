@@ -4,7 +4,7 @@ In this project, We will show how Spring boot and spring data can be used to int
 
 
 ## Step 1 Download the code from github
-```git clone git@github.com:coolxdude/springboot-integrationtest.git```
+```git clone https://github.com/coolxdude/springboot-integrationtest.git```
 
 ## Step 2 Build the project and run Integration Test
 ```mvn clean install```
